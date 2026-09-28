@@ -1,0 +1,11 @@
+{
+  "base_url": "http://localhost:5000",
+  "token": "",
+  "readerToken": "",
+  "editorToken": "",
+  "adminToken": "",
+  "blogId": "",
+  "commentId": "",
+  "categoryId": "",
+  "userId": ""
+}
